@@ -1,5 +1,5 @@
 # ThirdYoloswapAirdrop
-The is a project to prepare for the second Merkle Tree airdrop .
+The is a project to prepare for the third Merkle Tree airdrop .
 
 # Airdrop List(until now, continually update)
 
