@@ -1,7 +1,10 @@
 # ThirdYoloswapAirdrop
-The is a project to prepare for the third Merkle Tree airdrop, **case insensitive search would help**
+The is a project to prepare for the third Merkle Tree airdrop,  **case insensitive search would help**.
 
-# Airdrop List
+# ReadMe
+There will be basic rewards after filling out the form. The addresses for completing multiple activity tasks are listed here.
+
+# Airdrop List(Main List)
 
 0x0000006bbcca983ccb4a66852bd8d0707c0f3434
 
